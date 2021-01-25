@@ -1,0 +1,10 @@
+body{
+    background-color: gray;
+}
+.header{
+    display: grid;
+    background-color: white;
+}
+.postHeader{
+    display: grid;
+}
